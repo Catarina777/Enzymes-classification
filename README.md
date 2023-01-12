@@ -3,7 +3,9 @@
 
 # Enzymes classification
 
-### Context 
+## Context 
+
+Enzymes are proteins that act as biological catalysts by accelerating chemical reactions. An enzyme is therefore a molecule that increases the speed of biochemical reaction in an organism. 
 
 Enzymes are classified by the Nomenclature Committee of the International Union of Biochemistry into Enzyme Comission (EC) numbers, a four digit numerical representation separated by periods (e.g. 2.6.1.9). 
 
@@ -26,6 +28,11 @@ The different subclasses of this enzymes are presented in the table below.
 <p align="center" width="100%">
     <img width="80%" src="https://github.com/daniellalemos/Enzymes-classification/blob/main/images/transferases_subclasses.png">
 </p>
+
+
+## Files information
+
+
 
 ## Autors: 
 
