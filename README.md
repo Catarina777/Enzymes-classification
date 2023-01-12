@@ -35,6 +35,13 @@ The different subclasses of this enzymes are presented in the table below.
 
 ## Files information
 
+- Preprocessing and unsupervised analysis
+    - Jupyter Notebook with Python scripts using io, numpy, pandas, matplotlib and random packages. 
+    - These are utilized to extract the ec levels (class and subclass) to select a class with balanced data. 
+    - During this step, we needed to encode the aminoacids to numeric numbers for machine learning and deep learning.
+    - With this we made a selection of the best features and proceeded to make an unsupervised exploration of the dataset using two methods: PCA and t-SNE.
+
+
 - Machine learning:
   - In this notebook is developed multiple machine learning models that can predict the subclasses of transferases. 
     - The models used were: LogisticRegression, Random Forest, SVM and KNN.
