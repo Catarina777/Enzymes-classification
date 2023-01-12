@@ -35,6 +35,14 @@ The different subclasses of this enzymes are presented in the table below.
 
 ## Files information
 
+- Machine learning:
+  - In this notebook is developed multiple machine learning models that can predict the subclasses of transferases. 
+    - The models used were: LogisticRegression, Random Forest, SVM and KNN.
+  - It was created a function (score_test_set) with many metrics for evaluating the models, comparing the predicted values with the real values.
+    - The metrics used were: Accuracy, MCC, f1 score, confusion matrix, false discovery rate, sensitive; hit rate; recall or true positive rate, specificity or true negative rate and classification report. 
+  - It was also used a ROC curve that allows visualizing the tradeoff between the classifier’s sensitivity and specificity. 
+
+
 
  
 ## Autors: 
