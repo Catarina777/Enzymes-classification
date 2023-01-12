@@ -25,7 +25,7 @@ The different subclasses of this enzymes are presented in the table below.
 
 **Align center:**
 <p align="center" width="100%">
-    <img width="33%" src="https://github.com/daniellalemos/Enzymes-classification/blob/main/images/transferases_subclasses.png">
+    <img width="80%" src="https://github.com/daniellalemos/Enzymes-classification/blob/main/images/transferases_subclasses.png">
 </p>
 
 ## Autors:
