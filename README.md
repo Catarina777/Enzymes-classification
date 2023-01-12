@@ -24,7 +24,7 @@ Transferases are enzymes that catalyse the transfer of a functional group from a
 The different subclasses of this enzymes are presented in the table below.
 
 <p align="center">
-    <img width="200" src="images/transferases_subclasses" >
+    <img width="200" src="images/transferases_subclasses" alt='xxxx'>
 </p>
 
 ## Autors:
