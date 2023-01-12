@@ -23,7 +23,6 @@ This dataset contain many enzymatics classes (1-7), the class 0 is not enzymatic
 Transferases are enzymes that catalyse the transfer of a functional group from a donor molecule, often a coenzyme, to an acceptor molecule.
 The different subclasses of this enzymes are presented in the table below.
 
-**Align center:**
 <p align="center" width="100%">
     <img width="80%" src="https://github.com/daniellalemos/Enzymes-classification/blob/main/images/transferases_subclasses.png">
 </p>
