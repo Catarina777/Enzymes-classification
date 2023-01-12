@@ -3,6 +3,9 @@
 
 # Enzymes classification
 
+This repository was created as part of the Intelligent systems for bioinformatics project to support its development. The objective was to predict the subclasses for Transferases using machine and deep learning approaches.
+
+
 ## Context 
 
 Enzymes are proteins that act as biological catalysts by accelerating chemical reactions. An enzyme is therefore a molecule that increases the speed of biochemical reaction in an organism. 
