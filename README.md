@@ -35,7 +35,7 @@ The different subclasses of this enzymes are presented in the table below.
 
 ## Files information
 
-- Preprocessing and unsupervised analysis
+- Preprocessing and unsupervised analysis:
     - Jupyter Notebook with Python scripts using io, numpy, pandas, matplotlib and random packages. 
     - These are utilized to extract the ec levels (class and subclass) to select a class with balanced data. 
     - During this step, we needed to encode the aminoacids to numeric numbers for machine learning and deep learning.
