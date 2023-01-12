@@ -52,7 +52,7 @@ The different subclasses of this enzymes are presented in the table below.
 
 
  
-## Autors: 
+## Authors: 
 
 - Alexandra Coelho (PG45458)
 - Andreia Gomes (PG45463)
