@@ -57,9 +57,9 @@ The different subclasses of this enzymes are presented in the table below.
     - The parameters used were: X_test, y_test, model. 
   - It was also created another function (hot_encoded_sequence) to convert the letters in protein sequences into numbers.
     - The parameters used were: sequences, seq_len, alphabet, padding_truncating. 
-  - Another function created (lstm_simple) uses the LSTM network, which is a type of recurrent neural network used in deep learning because very large architectures can be successfully trained.
+  - Another function created (lstm_simple) uses the LSTM network, which is a type of recurrent neural network used in deep learning because the very large architectures can be successfully trained.
     - It uses a lot of metrics such as: input_dim, len_alphabet, optimizer, bilstm, lstm_layers, dense_layers, activation, recurrent_activation, dense_activation, dropout_rate, recurrent_dropout_rate, dropout_rate_dense, batchnormalization, loss_fun, activation_fun, cv, optType, param_grid, n_iter_search, n_jobs and scoring.
-  - Furthermore we made a function (blosum) that gets each aminoacid in a protein sequence encoded as blosum.
+  - Furthermore, we made a function (blosum) that gets each aminoacid in a protein sequence encoded as blosum.
     - It uses as parameters sequences.
   - At last we created another function (zscale) that makes something similar to the blosum where we get the encoded z_scale.
     - It uses as parameters sequences.
