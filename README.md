@@ -1,7 +1,7 @@
 <img src='images/logo.png' width='150'>
 
 
-# Enzymes classification a
+# Enzymes classification 
 
 This repository was created as part of the Intelligent systems for bioinformatics project to support its development. The objective was to predict the subclasses for Transferases using machine and deep learning approaches.
 
