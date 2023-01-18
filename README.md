@@ -22,6 +22,8 @@ Here, we will predict the subclass for the class 2 (transferases).
 We will use the ECPred dataset (Sequeira et al., 2021, ECPred: a tool for the prediction of the enzymatic functions of protein sequences based on the EC nomenclature.)
 This dataset contain many enzymatics classes (1-7), the class 0 is not enzymatic. We only will work with the class 2. 
 
+All the datasets used in this project are available at: [https://drive.google.com/drive/folders/1SpZH9pyCtp6Muv68Cg7y-k6OHXR2WTdq?usp=sharing](https://drive.google.com/drive/folders/1SpZH9pyCtp6Muv68Cg7y-k6OHXR2WTdq?usp=sharing)
+
 
 ### Transferases
 
